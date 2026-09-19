@@ -10,7 +10,7 @@ function App() {
       <Header />
 
       <main>
-        <div className="hero">
+        <div id="home" className="hero">
           <img src="/deakin.jpeg" alt="Deakin University" />
 
           <div className="hero-text">
@@ -44,7 +44,7 @@ function App() {
               <a
                 href="https://github.com/Scave2424/Frontend-Development_Project-02.git"
                 target="_blank"
-                rel="noreferrer"
+                rel="Github RepoLink"
               >
                 GitHub
               </a>
@@ -65,7 +65,7 @@ function App() {
               <a
                 href="https://github.com/Scave2424/Frontend-Development_Project-01.git"
                 target="_blank"
-                rel="noreferrer"
+                rel="Github RepoLink"
               >
                 GitHub
               </a>

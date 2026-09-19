@@ -28,11 +28,6 @@ body {
   gap: 25px;
 }
 
-.header nav a {
-  color: #222;
-  text-decoration: none;
-}
-
 .hero {
   position: relative;
   width: 100%;
@@ -52,6 +47,11 @@ body {
   text-align: center;
   color: white;
   background: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+}
+
+.hero-text:hover {
+  opacity: 1;
 }
 
 .about {
@@ -227,6 +227,7 @@ body {
   gap: 20px;
 }
 
+/* Navigation link styling */
 .nav-link {
   color: #0ea5e9;
   text-decoration: none;
