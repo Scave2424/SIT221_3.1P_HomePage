@@ -44,7 +44,7 @@ function App() {
               <a
                 href="https://github.com/Scave2424/Frontend-Development_Project-02.git"
                 target="_blank"
-                rel="Github RepoLink"
+                rel="noopener noreferrer"
               >
                 GitHub
               </a>
@@ -65,7 +65,7 @@ function App() {
               <a
                 href="https://github.com/Scave2424/Frontend-Development_Project-01.git"
                 target="_blank"
-                rel="Github RepoLink"
+                rel="noopener noreferrer"
               >
                 GitHub
               </a>
